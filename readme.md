@@ -37,4 +37,4 @@ Ofrecer una herramienta interactiva que permita la exploración del sistema sola
 - **Mostrar/Ocultar Caminos**: Controla la visibilidad de las órbitas de los planetas.
 - 
 ### Demostracion de Sistema Solar
-[Ver video de demostración](https://github.com/augustoeps/Sistema-Sola-IG/blob/glitch/sistema_solar.mp4)
+[Ver video de demostración](https://github.com/augustoeps/Sistema-Sola-IG/raw/glitch/sistema_solar.mp4)
