@@ -35,5 +35,6 @@ Ofrecer una herramienta interactiva que permita la exploración del sistema sola
 ### Controles de Iluminación y Visualización de Órbitas
 - **Iluminación Realista**: Opción de activar una luz ambiental que solo afecta el lado del planeta visible desde el sol.
 - **Mostrar/Ocultar Caminos**: Controla la visibilidad de las órbitas de los planetas.
-
-
+- 
+### Demostracion de Sistema Solar
+[Ver video de demostración](https://github.com/augustoeps/Sistema-Sola-IG/blob/glitch/sistema_solar.mp4)
